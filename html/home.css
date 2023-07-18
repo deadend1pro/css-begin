@@ -1,0 +1,29 @@
+html,
+body{
+  width: 100%;
+  height: 100%;
+}
+
+
+body {
+    background-image: url('https://images.pexels.com/photos/2739013/pexels-photo-2739013.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-size: 16px;
+    font-family: $main-font;
+}
+
+
+h1, h2{
+    color: #fff;
+    font-size: 2.5em;
+    text-shadow: 0px 2px 3px #2d2d2d;
+  }
+
+ul {
+    color: #fff;  
+    list-style-type: square;
+}
+
